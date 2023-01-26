@@ -1,0 +1,49 @@
+Provinsi,Persentase Penduduk Buta Huruf (Persen),,,,,,,,
+,15+,,,15-44,,,45+,,
+,2017,2018,2019,2017,2018,2019,2017,2018,2019
+ACEH,2.06,1.97,1.79,0.13,0.13,0.06,6.82,6.35,5.74
+SUMATERA UTARA,1.11,0.93,0.85,0.38,0.26,0.18,2.64,2.30,2.19
+SUMATERA BARAT,1.15,0.93,0.83,0.19,0.17,0.10,2.87,2.30,2.10
+RIAU,0.83,0.80,0.79,0.15,0.10,0.10,2.62,2.52,2.46
+JAMBI,1.91,1.85,1.80,0.29,0.29,0.23,5.49,5.18,5.04
+SUMATERA SELATAN,1.46,1.34,1.24,0.25,0.22,0.20,4.04,3.65,3.31
+BENGKULU,2.10,2.09,1.99,0.27,0.18,0.17,6.19,6.02,5.76
+LAMPUNG,3.11,3.07,2.89,0.16,0.14,0.12,8.81,8.47,7.87
+KEP. BANGKA BELITUNG,2.21,2.24,1.91,0.70,0.84,0.60,5.53,5.22,4.63
+KEP. RIAU,1.17,1.13,1.00,0.29,0.15,0.12,3.88,3.88,3.36
+DKI JAKARTA,0.33,0.28,0.26,0.06,0.07,0.05,0.92,0.73,0.71
+JAWA BARAT,1.77,1.52,1.47,0.26,0.26,0.21,4.71,3.90,3.79
+JAWA TENGAH,6.61,6.55,6.46,0.36,0.34,0.26,15.38,15.13,14.76
+DI YOGYAKARTA,5.36,5.17,5.04,0.20,0.09,0.05,12.38,12.06,11.56
+JAWA TIMUR,8.18,8.15,7.68,1.01,1.04,0.93,18.27,17.97,16.72
+BANTEN,2.43,2.38,2.38,0.21,0.13,0.12,7.97,7.68,7.55
+BALI,7.10,7.02,5.47,0.40,0.22,0.17,17.58,17.44,13.35
+NUSA TENGGARA BARAT,12.86,12.58,12.41,3.20,2.72,2.46,32.92,32.72,32.07
+NUSA TENGGARA TIMUR,8.32,8.10,6.76,3.08,3.03,2.51,18.92,18.44,15.26
+KALIMANTAN BARAT,7.52,7.42,6.79,1.76,1.63,1.46,20.20,19.70,17.80
+KALIMANTAN TENGAH,0.92,0.79,0.78,0.23,0.12,0.11,2.64,2.40,2.34
+KALIMANTAN SELATAN,1.60,1.58,1.50,0.15,0.17,0.15,4.65,4.45,4.15
+KALIMANTAN TIMUR,1.04,1.04,0.97,0.15,0.20,0.18,3.09,2.96,2.69
+KALIMANTAN UTARA,4.86,4.82,3.61,1.38,1.38,0.75,13.55,12.90,10.23
+SULAWESI UTARA,0.24,0.13,0.20,0.19,0.11,0.08,0.32,0.15,0.39
+SULAWESI TENGAH,2.31,2.13,1.78,0.84,0.81,0.71,5.39,4.71,3.85
+SULAWESI SELATAN,8.35,8.19,7.55,2.03,2.02,1.72,20.28,19.57,18.08
+SULAWESI TENGGARA,5.68,5.54,5.09,1.14,1.08,0.94,16.41,15.71,14.30
+GORONTALO,1.56,1.37,1.25,0.50,0.41,0.31,3.81,3.33,3.12
+SULAWESI BARAT,7.21,7.15,6.41,3.16,3.29,2.31,16.77,16.23,15.65
+MALUKU,0.87,0.78,0.61,0.77,0.76,0.55,1.09,0.84,0.74
+MALUKU UTARA,1.32,1.24,1.21,0.41,0.29,0.27,3.62,3.57,3.50
+PAPUA BARAT,2.84,2.63,2.28,1.94,1.83,1.53,5.55,4.86,4.34
+PAPUA,26.11,23.21,22.00,24.66,21.20,20.21,30.46,29.02,27.11
+INDONESIA,4.50,4.34,4.10,0.94,0.86,0.76,11.08,10.60,9.92
+,,,,,,,,,
+"Sumber: BPS-RI, Susenas 2003-2017
+Kenaikan Angka Buta Huruf perbandingan tahun 2010 dan 2011 disebabkan:
+1. Perbedaan metodologi penghitungan estimasi. Pada tahun 2010, penghitungan inflate tidak didasarkan pada kelompok umur 5 tahunan (0-4, 5-9, 10-14,..)
+sedangkan pada tahun 2011, penghitungan inflatenya berdasarkan kelompok umur 5 tahunan.
+2. Pengumpulan data pada tahun 2010 dilakukan 1 (satu) kali dalam setahun yaitu pada bulan Juli, sedangkan pada tahun 2011 dilakukan triwulanan. Hal ini mempengaruhi penghitungan indikator pendidikan
+karena tahun ajaran sekolah yang dimulai pada bulan Juli berakhir pada bulan Juni tahun berikutnya.
+3. Data tahun 2011-2017 diestimasi dengan menggunakan inflate hasil back-casting berdasarkan proyeksi penduduk Indonesia 2010-2035
+",,,,,,,,,
+Source Url: https://www.bps.go.id/indicator/28/102/2/persentase-penduduk-buta-huruf.html,,,,,,,,,
+"Access Time: January 26, 2023, 5:17 pm",,,,,,,,,
